@@ -17,7 +17,7 @@
    ```bash
    git clone https://github.com/KostenkoV-V/SystemGlass.git
    cd SystemGlass
-````
+```
 
 2. Создайте виртуальное окружение и активируйте его:
 
